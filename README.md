@@ -66,7 +66,7 @@ FAQ
 Q: The last File OK is followed by a prompt of process crashed, exit code: 0x0000409
 
 A: Clear your hosts file, which is located at C:\Windows\System32\drivers\etc\hosts, make sure to clean it, not just to disable the resolution inside
-  Ensure that the version of korepi you are running is 1.3.1.2. If it is not, please overwrite your current version with the korepi.exe found in the compressed package
+  Ensure that the version of korepi you are running is 1.3.1.3. If it is not, please overwrite your current version with the korepi.exe found in the compressed package
 
 Q: It prompts that the user does not exist (user not exist)
 
