@@ -14,7 +14,10 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![cn tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://youq-my.sharepoint.com/personal/cat_1999_youqv_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcat%5F1999%5Fyouqv%5Fcom%2FDocuments%2F2024%2D05%2D19%2019%2D22%2D01%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7a5409f%2D4c67%2D4269%2D9ebf%2D4ba029635fa9)
+[![cn tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://www.youtube.com/embed/LPUsTq9Bzd8)   
+
+- by kkk_1999
+
 
 ### p.s put the korepi file in the root folder of miku_simplified
 
@@ -83,6 +86,7 @@ A: Turn off your network proxy, especially OpenClash
 - korepi57 tool dev for the initial bat files n stuff
 - Anonymous for providing a key for testing
 - notmarek for his help in finding the salt for the payload signature
+- kkk_1999 for cn tutorial video
 
 
 		    
