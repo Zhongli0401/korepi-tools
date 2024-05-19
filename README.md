@@ -37,10 +37,7 @@
 ##### After you have run "step2.bat" once, subsequent starts only need to run "启动程序.bat"
 
 # P.S if u have issue with your net service run NetRes.bat
-
-## credits : Fad#1234 
-  ## korepi57 tool dev for the initial bat files n stuff
-		   
+  
 
 FAQ
 
@@ -62,6 +59,12 @@ A: Please make sure that you did not manually close the script window, don't man
 Q: The local server crashed, and korepi prompts process crashed, exit code: 0x0000409
 
 A: Turn off your network proxy, especially OpenClash
+
+- credits : Fad#1234 
+- korepi57 tool dev for the initial bat files n stuff
+- Anonymous for providing a key for testing
+- notmarek for his help in finding the salt for the payload signature
+
 
 		    
           
