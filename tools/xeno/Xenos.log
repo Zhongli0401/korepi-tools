@@ -1,0 +1,65 @@
+2024-05-19 05:32:01 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 05:32:13 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13568, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 05:32:13 *CRITICAL*   Injecting image 'E:\miku\New folder\tools\HoYoKProtect.dll'
+
+2024-05-19 05:34:46 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 05:34:46 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 0, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 05:34:46 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+
+2024-05-19 05:35:47 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 05:35:47 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 0, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 05:35:47 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+
+2024-05-19 05:36:34 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 05:36:34 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 0, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 05:36:34 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+
+2024-05-19 05:46:21 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 05:46:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9040, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 05:46:36 *CRITICAL*   Injecting image 'E:\miku\New folder\tools\HoYoKProtect.dll'
+
+2024-05-19 05:49:44 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 05:49:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 0, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 05:49:44 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+
+2024-05-19 06:01:11 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 06:01:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13908, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 06:01:17 *CRITICAL*   Injecting image 'E:\miku\New folder\tools\HoYoKProtect.dll'
+
+2024-05-19 06:28:14 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 06:28:37 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13236, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 06:28:37 *CRITICAL*   Injecting image 'E:\miku\New folder\tools\xeno\lol.dll'
+2024-05-19 06:28:52 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13236, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 06:28:52 *CRITICAL*   Injecting image 'E:\miku\New folder\tools\xeno\lol.dll'
+2024-05-19 06:28:52 *ERROR*      Failed to inject image using default injection, status: 0xC000010E
+2024-05-19 06:28:52 *ERROR*      Failed to inject image 'E:\miku\New folder\tools\xeno\lol.dll'.
+Error code 0xC000010E
+
+2024-05-19 06:33:01 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+
+2024-05-19 06:42:45 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 06:42:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 0, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 06:42:45 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+
+2024-05-19 06:42:49 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 06:43:21 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+
+2024-05-19 06:44:09 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-05-19 06:44:09 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 0, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-05-19 06:44:09 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+
