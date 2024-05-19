@@ -5,7 +5,7 @@
  ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
 ### video
-  [![tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://drive.google.com/file/d/1zRr7wcGtlqGJlhXDfA6yBcgjamgiSBVb/view?usp=drive_link)
+  [![tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://drive.google.com/uc?id=1zRr7wcGtlqGJlhXDfA6yBcgjamgiSBVb)
 
 ### p.s put the korepi file in the root folder of miku_simplified
 
