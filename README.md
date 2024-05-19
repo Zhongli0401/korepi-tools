@@ -1,6 +1,6 @@
 --------------------------------------------------------Korepi tools-------------------------------------------------
 
-![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.PNG)
+![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
 
  ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
