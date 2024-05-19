@@ -1,4 +1,8 @@
 --------------------------------------------------------Korepi tools-------------------------------------------------
+## For those who getting error 409 check the injector the dll is missing there readd the dll do as u saw in the image
+
+![injector](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/injector.PNG)
+
 
 ![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
 
