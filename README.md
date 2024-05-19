@@ -9,7 +9,7 @@
                     127.0.0.1 ghp.535888.xyz
                     127.0.0.1 md5c.535888.xyz
 
-![0.1.host.PNG](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/0.1.host.PNG)
+![0.1.host.PNG](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/0.1.host.PNG)
 
 
 
@@ -21,15 +21,15 @@
  
  - we start at miku_simplified/tools/certmgr.exe run it as admin go to "trusted root certification authorities" check img 0cert now scroll down to 
        "md5c.korepi.com" remove it {only for those who use previous crack}
-   ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/0Cert.PNG)
-   ![example 2](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/1cert.PNG)
+   ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/0Cert.PNG)
+   ![example2](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/1cert.PNG)
    
  -After removing it in 	   miku_simplified run "step2.bat" , when prompted with "Enter HWID: ", right-click the window to paste the HWID you just copied and select yes 
 
  - ah u can get the pub file at miku_simplified\tools\certs\md5c.korepi.com.pub
 
  - if korepi crashes at after taking the cert "pub-crash.png" check your cfg.ini use my cfg.ini.orig rename to cfg.ini and put your genshin exe PATH
-   ![pub-crash](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/pub-crash.png)
+   ![pub-crash](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/pub-crash.png)
  - Choose yes when prompted to install the certificate
 
  - Enjoy Korepi !!!!!
