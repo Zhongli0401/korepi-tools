@@ -5,7 +5,7 @@
  ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
 ### video
- ![tutorial](https://drive.google.com/file/d/1zRr7wcGtlqGJlhXDfA6yBcgjamgiSBVb/view?usp=drive_link)
+ - [tutorial](https://drive.google.com/file/d/1zRr7wcGtlqGJlhXDfA6yBcgjamgiSBVb/view?usp=drive_link)
 
 ### p.s put the korepi file in the root folder of miku_simplified
 
