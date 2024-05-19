@@ -3,6 +3,10 @@
  ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
 ### p.s put the korepi file in the root folder of miku_simplified
+
+
+
+
     ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/korepi.PNG)
 
  ### 1.Download the new version and open it once
