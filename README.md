@@ -1,5 +1,5 @@
 --------------------------------------------------------Korepi tools-------------------------------------------------
-## For those who getting error 409 check the injector the dll is missing there add the dll  as u saw in the image
+### For those who getting error 409 check the injector the dll is missing there add the dll  as u saw in the image
 
 ![injector](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/injector.PNG)
 
@@ -58,7 +58,7 @@
 
 ##### After you have run "step2.bat" once, subsequent starts only need to run "启动程序.bat"
 
-# P.S if u have issue with your net service run NetRes.bat
+#### P.S if u have issue with your net service run NetRes.bat
   
 
 FAQ
