@@ -9,7 +9,7 @@
                     127.0.0.1 ghp.535888.xyz
                     127.0.0.1 md5c.535888.xyz
 
-![0.1.host.PNG]((https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/0.1.host.PNG)
+![0.1.host.PNG](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/0.1.host.PNG)
 
 
 
@@ -22,7 +22,7 @@
  - we start at miku_simplified/tools/certmgr.exe run it as admin go to "trusted root certification authorities" check img 0cert now scroll down to 
        "md5c.korepi.com" remove it {only for those who use previous crack}
    ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/0Cert.PNG)
-   ![example 2](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/ing/1cert.PNG)
+   ![example2](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/ing/1cert.PNG)
    
  -After removing it in 	   miku_simplified run "step2.bat" , when prompted with "Enter HWID: ", right-click the window to paste the HWID you just copied and select yes 
 
