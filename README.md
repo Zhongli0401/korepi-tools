@@ -11,7 +11,7 @@
  ### 1.Download the new version and open it once
   It will prompt that the key file is not found and automatically copy the HWID, then close the korepi
 
-  # 0.1. set host file found in C:\Windows\System32\drivers\etc
+  #### set host file found in C:\Windows\System32\drivers\etc
                     127.0.0.1 ghp.535888.xyz
                     127.0.0.1 md5c.535888.xyz
 
