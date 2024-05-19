@@ -1,3 +1,5 @@
+not updated
+
 1. 先打开korepi.exe一次，会跳转下载页面，下载新版并打开一次（不要覆盖掉旧版korepi），提示没有找到密钥文件并自动复制HWID，关闭korepi
 
 2. 打开"2首次使用启动程序.bat"，提示Enter HWID:时，右键窗口以粘贴你刚刚复制的HWID

@@ -1,5 +1,7 @@
 --------------------------------------------------------Korepi tools-------------------------------------------------
 
+![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
+
  ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
 ### p.s put the korepi file in the root folder of miku_simplified
@@ -7,9 +9,10 @@
 ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/korepi.PNG)
 
  ### 1.Download the new version and open it once
-  It will prompt that the key file is not found and automatically copy the HWID, then close the korepi
+  It will prompt that the key file is not found and automatically copy the HWID, then close the korepi   
+  - save the hwid we will need that later
 
-  # 0.1. set host file found in C:\Windows\System32\drivers\etc
+  #### set host file found in C:\Windows\System32\drivers\etc
                     127.0.0.1 ghp.535888.xyz
                     127.0.0.1 md5c.535888.xyz
 
@@ -18,7 +21,7 @@
 
 
 # Make sure node is installed 
- ## [nodejs](https://nodejs.org/en/download/package-manager)
+ ### [NODEJS](https://nodejs.org/en/download/package-manager)
 
  #### now make sure extremely sure that u follow all the steps {step 1 is only for those who used previous crack a.k.a 1.3.1 korepi hack\}
 
