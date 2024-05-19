@@ -9,7 +9,8 @@
 ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/korepi.PNG)
 
  ### 1.Download the new version and open it once
-  It will prompt that the key file is not found and automatically copy the HWID, then close the korepi
+  It will prompt that the key file is not found and automatically copy the HWID, then close the korepi   
+  - save the hwid we will need that later
 
   #### set host file found in C:\Windows\System32\drivers\etc
                     127.0.0.1 ghp.535888.xyz
