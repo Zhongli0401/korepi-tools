@@ -1,5 +1,7 @@
 --------------------------------------------------------Korepi tools-------------------------------------------------
 
+![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.PNG)
+
  ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
 ### p.s put the korepi file in the root folder of miku_simplified
