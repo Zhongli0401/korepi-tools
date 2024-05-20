@@ -7,5 +7,5 @@ certs_backup/
 build/
 cfg.ini
 cfg.json
-imgui.json
+imgui.ini
 
