@@ -26,6 +26,7 @@ timeout /t 5 /nobreak > nul
 start "" "node" "server.js"
 ipconfig /flushdns
 start "" "../injector/injector.exe"
+mkdir "C:/miku"
 copy /Y "certs\md5c.korepi.com.pub" "C:\miku\md5c.korepi.com.pub"
 copy /Y "..\injector\lol.dll" "C:\miku\lol.dll"
 start /wait "" "../korepi/korepi.exe"
