@@ -1,3 +1,5 @@
+[update](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/update.md)
+
 --------------------------------------------------------Korepi tools-------------------------------------------------
 ### For those who getting error 409 check the injector the dll is missing there add the dll  as u saw in the image
 
@@ -59,7 +61,15 @@
 ##### After you have run "step2.bat" once, subsequent starts only need to run "启动程序.bat"
 
 #### P.S if u have issue with your net service run NetRes.bat
-  
+
+
+##### to update from version 1.3.1.3.fixv2 to fix v3
+ - download latest korepi
+ - delete certs folder in tools/certs
+ - delete enc.json in both tools and korepi-tools folder
+ - then run step2.bat enter your hwid select yes get enc.json
+ - if everything goes right and the game doesnot launnch its korepi issue
+ - enjoy korepi
 
 FAQ
 
