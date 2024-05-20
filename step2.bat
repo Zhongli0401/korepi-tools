@@ -29,12 +29,13 @@ if defined ConnectionName (
     exit
 )
 
-
 timeout /t 5 /nobreak > nul
 start "" "node" "server.js"
 ipconfig /flushdns
-copy /Y "certs\md5c.korepi.com.pub" "C:\md5c.korepi.com.pub"
+mkdir "C:/miku"
+copy /Y "certs\md5c.korepi.com.pub" "C:\miku\md5c.korepi.com.pub"
 copy /Y "enc.json" "../korepi/enc.json"
+copy /Y "..\injector\lol.dll" "C:\miku\lol.dll"
 start "" "../injector/injector.exe" "../injector/settings.xml"
 start /wait "" "../korepi/korepi.exe"
 goto LOOP
@@ -57,7 +58,7 @@ echo "该窗口会在原神关闭后的十秒钟内自动关闭"
 echo "并且恢复您的网络设定至DHCP"
 echo.
 echo 不要玩原神了,来看《Bang Dream It's MyGO!!!!!》吧  bilibili搜索BanG Dream! It's MyGO!!!!!
-echo Bocchi laughing  after korepi crack (><) https://www.youtube.com/watch?v=HfXoMyo3nk8
+echo Bocchi laughing  after cracking korepi (><) https://www.youtube.com/watch?v=HfXoMyo3nk8
 echo MyGo第一集请看 https://www.bilibili.com/video/av914573114
 echo 关注MyGO官号谢谢喵 https://space.bilibili.com/1459104794
 timeout /t 10 /nobreak > nul
