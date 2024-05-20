@@ -1,7 +1,7 @@
 --------------------------------------------------------Korepi tools-------------------------------------------------
 ![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
 
-### video
+#### video tutorial
 
  [![tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://www.youtube.com/embed/AyLxVRpoI14)
 
@@ -11,9 +11,9 @@
 
 - by kkk_1999
 
- ### korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
+### korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
-### p.s put the korepi file in the root folder of miku_simplified
+#### p.s put the korepi file in the root folder of miku_simplified
 
 ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/korepi.PNG)
 
