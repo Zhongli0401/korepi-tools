@@ -1,3 +1,5 @@
+[update](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/update.md)
+
 --------------------------------------------------------Korepi tools-------------------------------------------------
 ### For those who getting error 409 check the injector the dll is missing there add the dll  as u saw in the image
 
