@@ -1,11 +1,4 @@
-[update](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/update.md)
-
 --------------------------------------------------------Korepi tools-------------------------------------------------
-### For those who getting error 409 check the injector the dll is missing there add the dll  as u saw in the image
-
-![injector](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/injector.PNG)
-
-
 ![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
 
  ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
@@ -69,7 +62,11 @@
  - delete enc.json in both tools and korepi-tools folder
  - then run step2.bat enter your hwid select yes get enc.json
  - if everything goes right and the game doesnot launnch its korepi issue
- - enjoy korepi
+ - enjoy korepi 
+
+### For those who getting error 409 check the injector the dll is missing there add the dll  as u saw in the image
+
+![injector](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/injector.PNG)
 
 FAQ
 
