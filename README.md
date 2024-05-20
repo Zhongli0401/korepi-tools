@@ -44,7 +44,7 @@
 
 
 
-# Make sure node is installed 
+## Make sure node is installed 
  ### [NODEJS](https://nodejs.org/en/download/package-manager)
 
  #### now make sure extremely sure that u follow all the steps {step 1 is only for those who used previous crack a.k.a 1.3.1 korepi hack\}
