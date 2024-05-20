@@ -1,0 +1,137 @@
+{
+    "Colors": {
+        "Border": "0000004D",
+        "BorderShadow": "00000000",
+        "Button": "4397FA66",
+        "ButtonActive": "1088FAFF",
+        "ButtonHovered": "4397FAFF",
+        "CheckMark": "4397FAFF",
+        "ChildBg": "00000000",
+        "DockingEmptyBg": "333333FF",
+        "DockingPreview": "4397FA38",
+        "DragDropTarget": "4397FAF3",
+        "FrameBg": "FFEDEDFA",
+        "FrameBgActive": "4397FAAB",
+        "FrameBgHovered": "4397FA66",
+        "Header": "4397FA50",
+        "HeaderActive": "4397FAFF",
+        "HeaderHovered": "4397FACC",
+        "MenuBarBg": "DCDCDCFF",
+        "ModalWindowDimBg": "3333335A",
+        "NavHighlight": "4397FACC",
+        "NavWindowingDimBg": "33333333",
+        "NavWindowingHighlight": "B3B3B3B3",
+        "PlotHistogram": "E6B300FF",
+        "PlotHistogramHovered": "FF7300FF",
+        "PlotLines": "646464FF",
+        "PlotLinesHovered": "FF6E5AFF",
+        "PopupBg": "FFEDEDFA",
+        "ResizeGrip": "5A5A5A2C",
+        "ResizeGripActive": "4397FAF3",
+        "ResizeGripHovered": "4397FAAB",
+        "ScrollbarBg": "FAFAFA88",
+        "ScrollbarGrab": "B0B0B0CC",
+        "ScrollbarGrabActive": "7D7D7DFF",
+        "ScrollbarGrabHovered": "7D7D7DCC",
+        "Separator": "6464649F",
+        "SeparatorActive": "2471CCFF",
+        "SeparatorHovered": "2471CCC7",
+        "SliderGrab": "4397FAC7",
+        "SliderGrabActive": "768ACC99",
+        "Tab": "C3CCD6EE",
+        "TabActive": "98BAE2FF",
+        "TabHovered": "4397FACC",
+        "TabUnfocused": "EBEDEFFC",
+        "TabUnfocusedActive": "BED2EAFF",
+        "TableBorderLight": "AEAEBDFF",
+        "TableBorderStrong": "9292A4FF",
+        "TableHeaderBg": "FAFFDDFF",
+        "TableRowBg": "FFEDEDFF",
+        "TableRowBgAlt": "FFEDEDFA",
+        "Text": "000000FF",
+        "TextDisabled": "999999FF",
+        "TextSelectedBg": "4397FA5A",
+        "TitleBg": "F5F5F5FF",
+        "TitleBgActive": "D2D2D2FF",
+        "TitleBgCollapsed": "FFFFFF83",
+        "WindowBg": "FFFFFFFF"
+    },
+    "Styles": {
+        "Alpha": 1.0,
+        "AntiAliasedFill": true,
+        "AntiAliasedLines": true,
+        "AntiAliasedLinesUseTex": true,
+        "ButtonTextAlign": [
+            0.550000011920929,
+            0.5400000214576721
+        ],
+        "CellPadding": [
+            10.0,
+            0.0
+        ],
+        "ChildBorderSize": 1.0,
+        "ChildRounding": 5.0,
+        "CircleTessellationMaxError": 0.6000000238418579,
+        "ColorButtonPosition": 1,
+        "ColumnsMinSpacing": 6.0,
+        "CurveTessellationTol": 1.2799999713897705,
+        "DisabledAlpha": 0.5,
+        "DisplaySafeAreaPadding": [
+            18.0,
+            14.0
+        ],
+        "DisplayWindowPadding": [
+            19.0,
+            19.0
+        ],
+        "FrameBorderSize": 1.0,
+        "FramePadding": [
+            3.0,
+            3.0
+        ],
+        "FrameRounding": 7.0,
+        "GrabMinSize": 10.0,
+        "GrabRounding": 7.0,
+        "IndentSpacing": 9.0,
+        "ItemInnerSpacing": [
+            5.0,
+            8.0
+        ],
+        "ItemSpacing": [
+            8.0,
+            4.0
+        ],
+        "LogSliderDeadzone": 4.0,
+        "MouseCursorScale": 1.0,
+        "PopupBorderSize": 1.0,
+        "PopupRounding": 6.0,
+        "ScrollbarRounding": 9.0,
+        "ScrollbarSize": 14.0,
+        "SelectableTextAlign": [
+            0.38999998569488525,
+            0.4000000059604645
+        ],
+        "TabBorderSize": 1.0,
+        "TabMinWidthForCloseButton": 0.0,
+        "TabRounding": 6.0,
+        "TouchExtraPadding": [
+            1.0,
+            3.0
+        ],
+        "WindowBorderSize": 1.0,
+        "WindowMenuButtonPosition": 0,
+        "WindowMinSize": [
+            32.0,
+            32.0
+        ],
+        "WindowPadding": [
+            9.0,
+            7.0
+        ],
+        "WindowRounding": 6.0,
+        "WindowTitleAlign": [
+            0.46000000834465027,
+            0.550000011920929
+        ]
+    }
+}

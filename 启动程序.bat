@@ -4,6 +4,7 @@ chcp 65001
 SetLocal EnableDelayedExpansion
 set batpath=%~dp0
 cd /d %batpath%/tools
+call NetRestore.bat
 
 for /f "tokens=*" %%i in ('PowerShell -Command "Get-NetAdapter -Physical | Where-Object {$_.Status -eq 'Up'} | Select-Object -ExpandProperty Name"') do (
     set "ConnectionName=%%i"
@@ -24,9 +25,11 @@ if defined ConnectionName (
 timeout /t 5 /nobreak > nul
 start "" "node" "server.js"
 ipconfig /flushdns
-start "" "../injector.exe" "../settings.xml"
-start /wait "" "../korepi.exe" 
+start "" "../injector/injector.exe"
+copy /Y "certs\md5c.korepi.com.pub" "C:\md5c.korepi.com.pub"
+start /wait "" "../korepi/korepi.exe"
 goto LOOP
+
 
 :RESTORENET
 cls

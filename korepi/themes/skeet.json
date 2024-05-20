@@ -1,0 +1,169 @@
+{
+    "Colors": {
+        "Border": "0000004D",
+        "BorderShadow": "00000000",
+        "Button": "00000000",
+        "ButtonActive": "FFFFFF55",
+        "ButtonHovered": "FFFFFF40",
+        "CheckMark": "88B01FFF",
+        "ChildBg": "00000000",
+        "DockingEmptyBg": "00000000",
+        "DockingPreview": "00000000",
+        "DragDropTarget": "4397FAF3",
+        "FrameBg": "FFFFFF06",
+        "FrameBgActive": "4397FA00",
+        "FrameBgHovered": "4397FA00",
+        "Header": "FFFFFF66",
+        "HeaderActive": "EBFFFA5A",
+        "HeaderHovered": "FFFFFF39",
+        "MenuBarBg": "DCDCDCFF",
+        "ModalWindowDimBg": "3333335A",
+        "NavHighlight": "4397FACC",
+        "NavWindowingDimBg": "33333333",
+        "NavWindowingHighlight": "B3B3B3B3",
+        "PlotHistogram": "E6B30000",
+        "PlotHistogramHovered": "FF730000",
+        "PlotLines": "646464FF",
+        "PlotLinesHovered": "FF6E5A00",
+        "PopupBg": "000000FA",
+        "ResizeGrip": "5A5A5A2C",
+        "ResizeGripActive": "FFFFFAF3",
+        "ResizeGripHovered": "FFFFFAAB",
+        "ScrollbarBg": "151515FF",
+        "ScrollbarGrab": "FFFFFF0D",
+        "ScrollbarGrabActive": "7D7D7DFF",
+        "ScrollbarGrabHovered": "7D3B3BFF",
+        "Separator": "6464649F",
+        "SeparatorActive": "6C92C0FF",
+        "SeparatorHovered": "000000C7",
+        "SliderGrab": "88B01FC7",
+        "SliderGrabActive": "7D7D7DFF",
+        "Tab": "4A4A4AB0",
+        "TabActive": "FFFFFF24",
+        "TabHovered": "000000CC",
+        "TabUnfocused": "EBEEF0FF",
+        "TabUnfocusedActive": "BDD2E9FF",
+        "TableBorderLight": "3B3B40FF",
+        "TableBorderStrong": "50505AFF",
+        "TableHeaderBg": "000000CF",
+        "TableRowBg": "500000CF",
+        "TableRowBgAlt": "500000CF",
+        "Text": "FFFFFF66",
+        "TextDisabled": "999999FF",
+        "TextSelectedBg": "FFFFFF15",
+        "TitleBg": "0B0B0BFF",
+        "TitleBgActive": "0B0B0BFF",
+        "TitleBgCollapsed": "FFFFFF83",
+        "WindowBg": "1A1A1AFF"
+    },
+    "CustomColors": {
+        "CardBg": "1E262BFF",
+        "MainBg": "1E2623FF",
+        "NavBg": "1E2623FF",
+        "NavItem": "23303DFF",
+        "NavItemActive": "474968FF",
+        "NavItemHovered": "444C70FF"
+    },
+    "CustomStyles": {
+        "CardHeaderFontScale": 1.100000023841858,
+        "CardPadding": [
+            4.0,
+            3.0
+        ],
+        "CardRounding": 5.0,
+        "MenuPadding": [
+            8.0,
+            8.0
+        ],
+        "MenuRounding": 0.0,
+        "MenuSplitterMargin": [
+            8.0,
+            8.0
+        ],
+        "MenuSplitterSize": 1.600000023841858,
+        "NavItemFramePadding": [
+            4.0,
+            3.0
+        ],
+        "NavItemIconSize": 26.0,
+        "NavItemIconSpacing": 8.0
+    },
+    "Styles": {
+        "Alpha": 1.0,
+        "AntiAliasedFill": true,
+        "AntiAliasedLines": true,
+        "AntiAliasedLinesUseTex": true,
+        "ButtonTextAlign": [
+            0.5,
+            0.5
+        ],
+        "CellPadding": [
+            4.0,
+            1.0
+        ],
+        "ChildBorderSize": 1.0,
+        "ChildRounding": 5.0,
+        "CircleTessellationMaxError": 0.10000000149011612,
+        "ColorButtonPosition": 1,
+        "ColumnsMinSpacing": 6.0,
+        "CurveTessellationTol": 1.5399999618530273,
+        "DisabledAlpha": 0.6000000238418579,
+        "DisplaySafeAreaPadding": [
+            3.0,
+            3.0
+        ],
+        "DisplayWindowPadding": [
+            19.0,
+            19.0
+        ],
+        "FrameBorderSize": 1.0,
+        "FramePadding": [
+            4.0,
+            4.0
+        ],
+        "FrameRounding": 5.0,
+        "GrabMinSize": 4.0,
+        "GrabRounding": 10.0,
+        "IndentSpacing": 21.0,
+        "ItemInnerSpacing": [
+            6.0,
+            4.0
+        ],
+        "ItemSpacing": [
+            8.0,
+            4.0
+        ],
+        "LogSliderDeadzone": 4.0,
+        "MouseCursorScale": 1.0,
+        "PopupBorderSize": 1.0,
+        "PopupRounding": 5.0,
+        "ScrollbarRounding": 3.0,
+        "ScrollbarSize": 15.0,
+        "SelectableTextAlign": [
+            0.0,
+            0.0
+        ],
+        "TabBorderSize": 0.0,
+        "TabMinWidthForCloseButton": 0.0,
+        "TabRounding": 4.0,
+        "TouchExtraPadding": [
+            0.0,
+            0.0
+        ],
+        "WindowBorderSize": 1.0,
+        "WindowMenuButtonPosition": 0,
+        "WindowMinSize": [
+            32.0,
+            32.0
+        ],
+        "WindowPadding": [
+            8.0,
+            8.0
+        ],
+        "WindowRounding": 12.0,
+        "WindowTitleAlign": [
+            0.0,
+            0.5
+        ]
+    }
+}
