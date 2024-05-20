@@ -264,7 +264,7 @@ const requestListener = function (req, res) {
             latest_version: "1.3.1.3",
             update_required: true,
             update_url: "https://github.com/Cotton-Buds/calculator/releases",
-            updated_at: "2024-05-16 03:21",
+            updated_at: "2024-05-21 00:21",
             updated_by: "StellaR(main) & brother warrior(auth) & EtoShinya(GOat)",
             update_diff: {
                 added_features: [
