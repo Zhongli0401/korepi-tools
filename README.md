@@ -3,7 +3,7 @@
 
 #### video tutorial
 
- [![tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://www.youtube.com/embed/AyLxVRpoI14)
+ [![tutorial](https://img.youtube.com/vi/AyLxVRpoI14/maxresdefault.jpg)](https://www.youtube.com/embed/AyLxVRpoI14)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
