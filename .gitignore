@@ -5,3 +5,6 @@ debug_online.js
 node_modules/
 certs_backup/
 build/
+cfg.ini
+cfg.json
+imgui.json
