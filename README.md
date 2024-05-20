@@ -63,7 +63,7 @@
    ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/0Cert.PNG)
    ![example2](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/1cert.PNG)
    
- -After removing it in 	   miku_simplified run "step2.bat" , when prompted with "Enter HWID: ", right-click the window to paste the HWID you just copied and select yes 
+ -After removing it in 	   miku_simplified run "first-time-setup.bat" , when prompted with "Enter HWID: ", right-click the window to paste the HWID you just copied and select yes 
 
  - ah u can get the pub file at miku_simplified\tools\certs\md5c.korepi.com.pub
 
@@ -73,7 +73,7 @@
 
  - Enjoy Korepi !!!!!
 
-##### After you have run "step2.bat" once, subsequent starts only need to run "启动程序.bat"
+##### After you have run "first-time-setup.bat" once, subsequent starts only need to run "start.bat"
 
 #### P.S if u have issue with your net service run NetRes.bat
 
@@ -82,7 +82,7 @@
  - download latest korepi
  - delete certs folder in tools/certs
  - delete enc.json in both tools and korepi-tools folder
- - then run step2.bat enter your hwid select yes get enc.json
+ - then run first-time-setup.bat enter your hwid select yes get enc.json
  - if everything goes right and the game doesnot launnch its korepi issue
  - enjoy korepi 
 
