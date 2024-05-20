@@ -268,13 +268,14 @@ const requestListener = function (req, res) {
             updated_by: "StellaR(main) & brother warrior(auth) & EtoShinya(GOat)",
             update_diff: {
                 added_features: [
+				    "added fix for 1.3.1.3.v4"
                     "https://discord.gg/QwuyRNq4rf join discord for more info",
 					"By FAd#1234",
 					"if u face error 409 put your old  cfg.ini cfg.json imgui.ini in korepi folder",
 					"help at bkebi server",
                 ],
-                extra_features: [
-				    "fix 1.3.1.3.v3",
+                deleted_features: [
+				    "1.3.1.3.v3",
 					"Removed AUTH v3."				
                 ],
                 total_size: "76.0 MB"
