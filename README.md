@@ -7,7 +7,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![cn tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://www.youtube.com/embed/LPUsTq9Bzd8)   
+[![cn tutorial](https://img.youtube.com/vi/LPUsTq9Bzd8/maxresdefault.jpg)](https://www.youtube.com/embed/LPUsTq9Bzd8)   
 
 - by kkk_1999
 
