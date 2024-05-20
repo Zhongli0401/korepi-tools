@@ -11,7 +11,7 @@
 
 - by kkk_1999
 
-join bkebi discord to know more
+### Join bkebi discord to know more
 
 <div align=center>
 <img src="https://github.com/Bkebi-Group/Bkebi-GC-Release/raw/main/.github/logo.svg" width="520"/>
