@@ -18,7 +18,7 @@ join bkebi discord to know more
 </div>
 
 <p align="center">
-	<a href="https://github.com/Zhongli0401/korepi-tools/releases/latest"><img src="https://img.shields.io/github/v/release/Zhongli0401/korepi-tools/releases?style=for-the-badge"></a>
+	<a href="https://github.com/Zhongli0401/korepi-tools/releases/latest"><img src="https://img.shields.io/github/v/release/Zhongli0401/korepi-tools?style=for-the-badge?style=for-the-badge"></a>
 	<a href="https://github.com/Zhongli0401/korepi-tools/releases"><img src="https://img.shields.io/github/downloads/Zhongli0401/korepi-tools/releases/total.svg?style=for-the-badge"></a>
 	<a href="https://discord.com/invite/QwuyRNq4rf"><img src="https://img.shields.io/discord/1026295403282436097?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
