@@ -11,6 +11,21 @@
 
 - by kkk_1999
 
+join bkebi discord to know more
+
+<div align=center>
+<img src="https://github.com/Bkebi-Group/Bkebi-GC-Release/raw/main/.github/logo.svg" width="520"/>
+</div>
+
+<p align="center">
+	<a href="https://github.com/Zhongli0401/korepi-tools/releases/latest"><img src="https://img.shields.io/github/v/release/Bkebi-Group/Bkebi-GC-Release?style=for-the-badge"></a>
+	<a href="https://github.com/Zhongli0401/korepi-tools/releases"><img src="https://img.shields.io/github/downloads/Zhongli0401/korepi-tools/releases/total.svg?style=for-the-badge"></a>
+	<a href="https://discord.com/invite/QwuyRNq4rf"><img src="https://img.shields.io/discord/1026295403282436097?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
+</p>
+
+
+
+
 ### korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
 #### p.s put the korepi file in the root folder of miku_simplified
