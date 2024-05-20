@@ -52,7 +52,7 @@ echo.
 echo 不要玩原神了,来看《Bang Dream It's MyGO!!!!!》吧  bilibili搜索BanG Dream! It's MyGO!!!!!
 echo MyGo第一集请看 https://www.bilibili.com/video/av914573114
 echo 关注MyGO官号谢谢喵 https://space.bilibili.com/1459104794
-echo Bocchi laughing  after korepi crack (><) https://www.youtube.com/watch?v=HfXoMyo3nk8
+echo Bocchi laughing  after korepi crack https://www.youtube.com/watch?v=HfXoMyo3nk8
 timeout /t 5 /nobreak > nul
 SetLocal EnableDelayedExpansion
 goto LOOP
