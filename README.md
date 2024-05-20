@@ -1,8 +1,6 @@
 --------------------------------------------------------Korepi tools-------------------------------------------------
 ![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
 
- ## Run korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
-
 ### video
 
  [![tutorial](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/genshin.PNG)](https://www.youtube.com/embed/AyLxVRpoI14)
@@ -13,12 +11,13 @@
 
 - by kkk_1999
 
+ ### korepi.exe get it from [korepi](https://github.com/Cotton-Buds/calculator/releases) 
 
 ### p.s put the korepi file in the root folder of miku_simplified
 
 ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/korepi.PNG)
 
- ### 1.Download the new version and open it once
+ ### 1.open it once
   It will prompt that the key file is not found and automatically copy the HWID, then close the korepi   
   - save the hwid we will need that later
 
