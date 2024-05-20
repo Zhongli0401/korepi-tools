@@ -5,6 +5,7 @@
 
  [![tutorial](https://img.youtube.com/vi/AyLxVRpoI14/maxresdefault.jpg)](https://www.youtube.com/embed/AyLxVRpoI14)
 
+- by zhongli0401 en tutorial 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### video tutorial zh-cn
@@ -12,7 +13,7 @@
 
 [![cn tutorial](https://img.youtube.com/vi/LPUsTq9Bzd8/maxresdefault.jpg)](https://www.youtube.com/embed/LPUsTq9Bzd8)   
 
-- by kkk_1999
+- by kkk_1999 cn tutorial
 
 ### Join bkebi discord to know more
 
