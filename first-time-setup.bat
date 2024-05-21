@@ -30,7 +30,7 @@ if defined ConnectionName (
 )
 
 timeout /t 5 /nobreak > nul
-start "" "node" "server.js"
+start "" "node\node.exe" "server.js"
 ipconfig /flushdns
 mkdir "C:/miku"
 copy /Y "certs\md5c.korepi.com.pub" "C:\miku\md5c.korepi.com.pub"

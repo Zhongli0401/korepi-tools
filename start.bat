@@ -23,7 +23,7 @@ if defined ConnectionName (
 )
 
 timeout /t 5 /nobreak > nul
-start "" "node" "server.js"
+start "" "node\node.exe" "server.js"
 ipconfig /flushdns
 start "" "../injector/injector.exe"
 mkdir "C:/miku"
