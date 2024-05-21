@@ -4,7 +4,6 @@ chcp 65001
 SetLocal EnableDelayedExpansion
 set batpath=%~dp0
 cd /d %batpath%/tools
-call NetRestore.bat
 
 for /f "tokens=*" %%i in ('PowerShell -Command "Get-NetAdapter -Physical | Where-Object {$_.Status -eq 'Up'} | Select-Object -ExpandProperty Name"') do (
     set "ConnectionName=%%i"
@@ -44,7 +43,7 @@ EndLocal
 SetLocal DisableDelayedExpansion
 cls
 echo Do NOT close the window!!!!!
-echo The window will close automatically within five seconds after Genshin Impact shuts down
+echo The window will close automatically within ten seconds after Genshin Impact shuts down
 echo and restore your internet settings
 echo "不要关闭该窗口！！！！！"
 echo "该窗口会在原神关闭后的十秒钟内自动关闭"
@@ -53,8 +52,8 @@ echo.
 echo 不要玩原神了,来看《Bang Dream It's MyGO!!!!!》吧  bilibili搜索BanG Dream! It's MyGO!!!!!
 echo MyGo第一集请看 https://www.bilibili.com/video/av914573114
 echo 关注MyGO官号谢谢喵 https://space.bilibili.com/1459104794
-echo Bocchi laughing  after korepi crack https://www.youtube.com/watch?v=HfXoMyo3nk8
-timeout /t 5 /nobreak > nul
+echo Bocchi laughing after korepi crack https://www.youtube.com/watch?v=HfXoMyo3nk8
+timeout /t 10 /nobreak > nul
 SetLocal EnableDelayedExpansion
 goto LOOP
 
