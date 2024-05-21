@@ -63,7 +63,7 @@
    ![example](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/0Cert.PNG)
    ![example2](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/1cert.PNG)
    
- -After removing it in 	   miku_simplified run "first-time-setup.bat" , when prompted with "Enter HWID: ", right-click the window to paste the HWID you just copied and select yes 
+- After removing it in 	   miku_simplified run "first-time-setup.bat" , when prompted with "Enter HWID: ", right-click the window to paste the HWID you just copied and select yes 
 
  - ah u can get the pub file at miku_simplified\tools\certs\md5c.korepi.com.pub
 
