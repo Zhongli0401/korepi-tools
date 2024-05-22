@@ -3,6 +3,11 @@
 
 ![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
 
+#### CN guide 
+
+[**Guide**](https://c1m21jrvvi4.feishu.cn/docx/GQ1Fd6OLhocDhFx6vzGcJXPYn2b)
+
+
 ### Join bkebi discord to know more
 
 <div align=center>
