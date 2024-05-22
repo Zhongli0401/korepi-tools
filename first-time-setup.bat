@@ -5,44 +5,42 @@ SetLocal EnableDelayedExpansion
 set batpath=%~dp0
 cd /d %batpath%/tools
 start certmgr.exe /del /c /n md5c.korepi.com /s root
-call NetRestore.bat
+mkdir miku
+call NetRes.bat
 call npm i
-cls
 node license_gen.js
 node ssl_gen.js
-PowerShell -Command "Get-ChildItem -Path Cert:\CurrentUser\Root | Where-Object { $_.Subject -like '*md5c.korepi.com*' } | Remove-Item"
 certmgr.exe /c /add "certs\\md5c.korepi.com.crt" /s root
+cls
 
-for /f "tokens=*" %%i in ('PowerShell -Command "Get-NetAdapter -Physical | Where-Object {$_.Status -eq 'Up'} | Select-Object -ExpandProperty Name"') do (
-    set "ConnectionName=%%i"
-)
+copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_edit 
+rem creates miku\miku_edit folder inside tools folder
+copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_bak
 
-if defined ConnectionName (
-    PowerShell -Command "Disable-NetAdapterBinding -Name \"%ConnectionName%\" -ComponentID ms_tcpip6"
-    PowerShell -Command "$IPInfo = Get-NetIPAddress -InterfaceAlias '%ConnectionName%' | Where-Object { $_.PrefixOrigin -eq 'Dhcp' } | Select-Object -First 1; $Gateway = Get-NetRoute -InterfaceAlias '%ConnectionName%' | Where-Object { $_.DestinationPrefix -eq '0.0.0.0/0' } | Select-Object -First 1; Write-Output ('IP: ' + $IPInfo.IPAddress); Write-Output ('Subnet Prefix Length: ' + $IPInfo.PrefixLength); Write-Output ('Gateway: ' + $Gateway.NextHop); Remove-NetIPAddress -IPAddress $IPInfo.IPAddress -Confirm:$false; New-NetIPAddress -InterfaceAlias '%ConnectionName%' -IPAddress $IPInfo.IPAddress -PrefixLength $IPInfo.PrefixLength -DefaultGateway $Gateway.NextHop"
-    PowerShell -Command "New-NetIPAddress -InterfaceAlias '%ConnectionName%' -IPAddress 104.21.45.239 -PrefixLength 24"
-    netsh interface ip set dns name="!ConnectionName!" source=static addr=127.0.0.1 register=primary
-    echo Internet settings has been set up.
-) else (
-    echo Please check your internet connection or update the PowerShell.
-    pause
-    exit
-)
+echo. >> miku_edit
+echo 127.0.0.1 ghp.535888.xyz>> .\miku\miku_edit 
+rem writes inside miku_edit
+echo 127.0.0.1 md5c.535888.xyz>> .\miku\miku_edit
+copy /Y .\miku\miku_edit %SystemRoot%\System32\drivers\etc\hosts
+rem taken from stackexchange n korepi-tools520
 
-timeout /t 5 /nobreak > nul
+
 start "" "node\node.exe" "server.js"
-ipconfig /flushdns
 mkdir "C:/miku"
 copy /Y "certs\md5c.korepi.com.pub" "C:\miku\md5c.korepi.com.pub"
 copy /Y "enc.json" "../korepi/enc.json"
-copy /Y "..\injector\lol.dll" "C:\miku\lol.dll"
-start "" "../injector/injector.exe" "../injector/settings.xml"
-start /wait "" "../korepi/korepi.exe"
-goto LOOP
+cls
+cd ..
+cd korepi
+start "" "injector.exe"
+timeout /t 5 /nobreak > nul
+goto korepicrash
 
 :RESTORENET
-cls
-call NetRestore.bat
+cd ..
+cd tools
+copy /y ".\miku\miku_bak" %SystemRoot%\System32\drivers\etc\hosts
+rmdir /S /Q "miku"
 exit
 
 EndLocal
@@ -64,6 +62,25 @@ echo 关注MyGO官号谢谢喵 https://space.bilibili.com/1459104794
 timeout /t 10 /nobreak > nul
 SetLocal EnableDelayedExpansion
 goto LOOP
+
+:korepicrash
+tasklist | findstr /I "korepi.exe" > nul
+if errorlevel 1 (
+    goto RESTORENET
+) else (
+    goto LOOPk
+)
+
+
+
+:LOOPk
+tasklist | findstr /I "korepi.exe" > nul
+if errorlevel 1 (
+    goto LOOP
+) else (
+    timeout /t 1 /nobreak > nul
+    goto LOOPk
+)
 
 :LOOP
 tasklist | findstr /I "Yuanshen.exe GenshinImpact.exe" > nul
