@@ -17,28 +17,33 @@
 - 打开korepi获取HWID(机器码),会自动复制HWID
 - 打开文件里面有first-time-setup.bat(首次使用启动程序)
 - 运行first-time-setup.bat后，您将看到此消息。
+
 ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/c933294d-5b63-4e07-b4ef-ffacf3a466fa)
 - - 选择YES(是)
 - 需要填写HWID(机器码)
+
 ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/64b32b70-dfd0-4b1f-98ff-b4878eb19058)
 - 写入HWID
+
 ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/759b42ea-3f49-4488-9f9e-effbd0d06b9c)
 - - 按回车(Enter)
 - 现在它会说安全警告请按是(yes)
+
 ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/705fedd9-fc01-4b89-ae1c-a618c985cedc)
 - 等待......
 - 现在Node.js将要求访问，选择专用网络和公共网络，然后单击“允许访问(yes)”
+
 ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/93ac7780-a4e5-4a0b-86f1-f331b61ae7ad)
 --享受korepi!
 
 问题解答
-1. 添加了Node.js，因此无需手动安装。
-2. 添加了lol.dll以直接路径访问md5c.korepi.com.pub
-3. 当您运行first-time-setup.bat或start.bat时，它将创建一个“C:/miku”文件夹，请勿删除该文件夹
-4. Injector.exe依赖于此，因为每台电脑都有 C 驱动器，我在那里添加了lol.dll以自动加载，无需用户交互
-5. lol.dll在此存储库中进行了一些修改，以便直接访问位于“C:/miku”中的md5c.korepi.com.pub
-6. lol.dll将在每个版本的Korepi中更新，因此不必担心更新。
-7. 如果一切顺利，没有错误，但Korepi仍然拒绝运行，只需使用 start.bat，这是Korepi 的常见问题。
+1. 添加了**Node.js**，因此无需手动安装。
+2. 添加了**lol.dll**以直接路径访问md5c.korepi.com.pub
+3. 当您运行**first-time-setup.bat**或**start.bat**时，它将创建一个 **“C:/miku”** 文件夹，请勿删除该文件夹
+4. **Injector.exe**依赖于此，因为每台电脑都有 C 驱动器，我在那里添加了**lol.dll**以自动加载，无需用户交互
+5. **lol.dll**在此存储库中进行了一些修改，以便直接访问位于 **“C:/miku”** 中的 **md5c.korepi.com.pub**
+6. lol.dll将在每个版本的**Korepi**中更新，因此不必担心更新。
+7. 如果一切顺利，没有错误，但**Korepi**仍然拒绝运行，只需使用 **start.bat**，这是Korepi 的常见问题。
 
 Q：最后一个文件确定后，出现进程崩溃的提示，退出代码：0x0000409
 
