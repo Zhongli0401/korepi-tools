@@ -1,5 +1,8 @@
  ### Korepi-tools
 
+[![cn](https://img.shields.io/badge/语言-cn-cyan.svg)](https://github.com/Zhongli0401/korepi-tools/blob/miku_oneclick_all/Readme-Zh-CN.md)
+
+
 
 ![working](https://github.com/Zhongli0401/korepi-tools/blob/miku_bat/img/working.png)
 
