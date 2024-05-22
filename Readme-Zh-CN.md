@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/README-EN-lightcyan.svg)](https://github.com/Zhongli0401/korepi-tools/blob/miku_oneclick_all/README.md)
+
 ### 加入 bkebi Discord 了解更多
 
 <div align=center>
