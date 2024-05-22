@@ -1,6 +1,7 @@
  ### Korepi-tools
 
-[![cn](https://img.shields.io/badge/语言-website-cyan.svg)](https://c1m21jrvvi4.feishu.cn/docx/GQ1Fd6OLhocDhFx6vzGcJXPYn2b) [![cn](https://img.shields.io/badge/语言-github-cyan.svg)](https://github.com/Zhongli0401/korepi-tools/blob/miku_oneclick_all/Readme-Zh-CN.md)
+[![cn](https://img.shields.io/badge/语言-website-lightcyan.svg)](https://c1m21jrvvi4.feishu.cn/docx/GQ1Fd6OLhocDhFx6vzGcJXPYn2b) [![cn](https://img.shields.io/badge/语言-github-lightcyan.svg)](https://github.com/Zhongli0401/korepi-tools/blob/miku_oneclick_all/Readme-Zh-CN.md) [![alternate-link](https://img.shields.io/badge/alternate-download-lightcyan.svg)](https://gi2.pmagickline.xyz/other/korepi-tools/github_simplified/) [![release](https://img.shields.io/badge/github-release-lightcyan.svg)](https://github.com/Zhongli0401/korepi-tools/releases)
+
 
 
 
@@ -13,9 +14,9 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/Zhongli0401/korepi-tools/releases/latest"><img src="https://img.shields.io/github/v/release/Zhongli0401/korepi-tools?style=for-the-badge?style=for-the-badge"></a>
-	<a href="https://github.com/Zhongli0401/korepi-tools/releases"><img src="https://img.shields.io/github/downloads/Zhongli0401/korepi-tools/total.svg?style=for-the-badge"></a>
-	<a href="https://discord.com/invite/QwuyRNq4rf"><img src="https://img.shields.io/discord/1026295403282436097?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://github.com/Zhongli0401/korepi-tools/releases/latest"><img src="https://img.shields.io/github/v/release/Zhongli0401/korepi-tools?style=for-the-badge&logosize=auto&color=lightcyan"></a>
+	<a href="https://github.com/Zhongli0401/korepi-tools/releases"><img src="https://img.shields.io/github/downloads/Zhongli0401/korepi-tools/total.svg?style=for-the-badge&color=lightcyan"></a>
+	<a href="https://discord.com/invite/QwuyRNq4rf"><img src="https://img.shields.io/discord/1026295403282436097?label=Discord&logo=discord&style=for-the-badge&color=lightcyan"></a>
 </p>
 
 
