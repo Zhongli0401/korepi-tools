@@ -9,3 +9,5 @@ cfg.ini
 cfg.json
 imgui.ini
 logs/
+miku/
+enc/
