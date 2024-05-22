@@ -1,6 +1,6 @@
  ### Korepi-tools
 
-[![cn](https://img.shields.io/badge/语言-website-lightcyan.svg)](https://c1m21jrvvi4.feishu.cn/docx/GQ1Fd6OLhocDhFx6vzGcJXPYn2b) [![cn](https://img.shields.io/badge/语言-github-lightcyan.svg)](https://github.com/Zhongli0401/korepi-tools/blob/miku_oneclick_all/Readme-Zh-CN.md) [![alternate-link](https://img.shields.io/badge/alternate-download-lightcyan.svg)](https://gi2.pmagickline.xyz/other/korepi-tools/github_simplified/) [![release](https://img.shields.io/badge/github-release-lightcyan.svg)](https://github.com/Zhongli0401/korepi-tools/releases)
+[![cn](https://img.shields.io/badge/语言-website-lightcyan.svg)](https://c1m21jrvvi4.feishu.cn/docx/GQ1Fd6OLhocDhFx6vzGcJXPYn2b) [![cn](https://img.shields.io/badge/语言-README-lightcyan.svg)](https://github.com/Zhongli0401/korepi-tools/blob/miku_oneclick_all/Readme-Zh-CN.md) [![alternate-link](https://img.shields.io/badge/alternate-download-lightcyan.svg)](https://gi2.pmagickline.xyz/other/korepi-tools/github_simplified/) [![release](https://img.shields.io/badge/github-release-lightcyan.svg)](https://github.com/Zhongli0401/korepi-tools/releases)
 
 
 
