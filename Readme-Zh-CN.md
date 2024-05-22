@@ -4,10 +4,10 @@
 - 打开korepi获取HWID(机器码),会自动复制HWID
 - 打开文件里面有first-time-setup.bat(首次使用启动程序)
 - 运行first-time-setup.bat后，您将看到此消息。
-- ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/0ac47e12-2447-48fd-9ba7-11f1710a25cf)
+  ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/0ac47e12-2447-48fd-9ba7-11f1710a25cf)
 - - 选择YES(是)
 - 需要填写HWID(机器码)
-- ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/cb4e2983-03a4-4c8c-be58-d62123374701)
+  ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/cb4e2983-03a4-4c8c-be58-d62123374701)
 - 写入HWID
 - ![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/e1c7a1ce-03e5-4215-9db5-d701a8cc155c)
 - - 按回车(Enter)
