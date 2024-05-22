@@ -4,18 +4,18 @@
 - 打开korepi获取HWID(机器码),会自动复制HWID
 - 打开文件里面有first-time-setup.bat(首次使用启动程序)
 - 运行first-time-setup.bat后，您将看到此消息。
-  [image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/0ac47e12-2447-48fd-9ba7-11f1710a25cf)
+![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/c933294d-5b63-4e07-b4ef-ffacf3a466fa)
 - - 选择YES(是)
 - 需要填写HWID(机器码)
-  [image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/cb4e2983-03a4-4c8c-be58-d62123374701)
+![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/64b32b70-dfd0-4b1f-98ff-b4878eb19058)
 - 写入HWID
-- [image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/e1c7a1ce-03e5-4215-9db5-d701a8cc155c)
+![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/759b42ea-3f49-4488-9f9e-effbd0d06b9c)
 - - 按回车(Enter)
 - 现在它会说安全警告请按是(yes)
-- [image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/877eeec8-a1d1-4e7c-ac87-c2501f781399)
+![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/705fedd9-fc01-4b89-ae1c-a618c985cedc)
 - 等待......
 - 现在Node.js将要求访问，选择专用网络和公共网络，然后单击“允许访问(yes)”
-![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/b07c0707-a9e1-4728-b419-616c1cdd99a1)
+![image](https://github.com/Zhongli0401/korepi-tools/assets/124914913/93ac7780-a4e5-4a0b-86f1-f331b61ae7ad)
 --享受korepi!
 
 问题解答
