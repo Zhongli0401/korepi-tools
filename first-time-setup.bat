@@ -41,6 +41,8 @@ cd ..
 cd tools
 copy /y ".\miku\miku_bak" %SystemRoot%\System32\drivers\etc\hosts
 rmdir /S /Q "miku"
+taskkill /f /im node.exe
+taskkill /f /im injector.exe
 exit
 
 EndLocal
