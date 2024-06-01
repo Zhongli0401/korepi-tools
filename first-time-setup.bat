@@ -19,7 +19,7 @@ copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_bak
 
 echo. >> .\miku\miku_edit
 echo 127.0.0.1 ghp.535888.xyz>> .\miku\miku_edit 
-rem writes inside miku_edit
+
 echo 127.0.0.1 md5c.535888.xyz>> .\miku\miku_edit
 copy /Y .\miku\miku_edit %SystemRoot%\System32\drivers\etc\hosts
 rem taken from stackexchange n korepi-tools520
