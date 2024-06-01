@@ -8,8 +8,8 @@ start certmgr.exe /del /c /n md5c.korepi.com /s root
 mkdir miku
 call NetRes.bat
 call npm i
-node license_gen.js
-node ssl_gen.js
+node\node.exe license_gen.js
+node\node.exe ssl_gen.js
 certmgr.exe /c /add "certs\\md5c.korepi.com.crt" /s root
 cls
 
