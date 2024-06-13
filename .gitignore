@@ -1,6 +1,5 @@
 certs/
-enc.json
-ext_enc.json
+tools/enc.json
 debug_online.js
 node_modules/
 certs_backup/
@@ -11,3 +10,4 @@ imgui.ini
 logs/
 miku/
 enc/
+tools/enc.json

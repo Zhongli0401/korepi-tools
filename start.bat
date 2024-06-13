@@ -4,22 +4,22 @@ chcp 65001
 SetLocal EnableDelayedExpansion
 set batpath=%~dp0
 cd /d %batpath%/tools
-mkdir miku
-
-copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_edit 
-rem creates miku\miku_edit folder inside tools folder
-copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_bak
-
-echo. >> .\miku\miku_edit
-echo 127.0.0.1 ghp.535888.xyz>> .\miku\miku_edit 
-rem writes inside miku_edit
-echo 127.0.0.1 md5c.535888.xyz>> .\miku\miku_edit
-copy /Y .\miku\miku_edit %SystemRoot%\System32\drivers\etc\hosts
+rem mkdir miku
+rem 
+rem copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_edit 
+rem rem creates miku\miku_edit folder inside tools folder
+rem copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_bak
+rem 
+rem echo. >> .\miku\miku_edit
+rem echo 127.0.0.1 ghp.535888.xyz>> .\miku\miku_edit 
+rem  writes inside miku_edit
+rem echo 127.0.0.1 md5c.535888.xyz>> .\miku\miku_edit
+rem copy /Y .\miku\miku_edit %SystemRoot%\System32\drivers\etc\hosts
 rem taken from stackexchange n korepi-tools520
 
-start "" "node\node.exe" "server.js"
-mkdir "C:/miku"
-copy /Y "certs\md5c.korepi.com.pub" "C:\miku\md5c.korepi.com.pub"
+rem start "" "node\node.exe" "server.js"
+rem mkdir "C:/miku"
+rem copy /Y "certs\md5c.korepi.com.pub" "C:\miku\md5c.korepi.com.pub"
 cd ..
 cd korepi
 start "" "injector.exe"
@@ -31,7 +31,8 @@ cd ..
 cd tools
 copy /y ".\miku\miku_bak" %SystemRoot%\System32\drivers\etc\hosts
 rmdir /S /Q "miku"
-taskkill /f /im node.exe
+rem miku delete SADGE (T-T)
+rem taskkill /f /im node.exe
 taskkill /f /im injector.exe
 exit
 
