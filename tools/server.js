@@ -260,25 +260,25 @@ const requestListener = function (req, res) {
         });
     } else if (req.url.indexOf('/https://raw.githubusercontent.com/Korepi/korepi-online-data/main') !== -1) {
         const payload = {
-            announcement: "4.6 os&cn",
-            latest_version: "1.3.1.3",
+            announcement: "4.7 os&cn",
+            latest_version: "1.3.2.0",
             update_required: true,
             update_url: "https://github.com/Cotton-Buds/calculator/releases",
-            updated_at: "2024-05-21 00:21",
+            updated_at: "2024-06-13 00:21",
             updated_by: "StellaR(main) & brother warrior(auth) & EtoShinya(GOat)",
             update_diff: {
                 added_features: [
-				    "added fix for 1.3.1.3.v4",
+				    "added fix for 1.3.2.0",
                     "https://discord.gg/QwuyRNq4rf join discord for more info",
 					"By FAd#1234",
 					"if u face error 409 put your old  cfg.ini cfg.json imgui.ini in korepi folder",
 					"help at bkebi server",
                 ],
                 deleted_features: [
-				    "1.3.1.3.v3",
-					"Removed AUTH v3."				
+				    "1.3.2.0_auth fix",
+					"Removed AUTH v4."				
                 ],
-                total_size: "76.0 MB"
+                total_size: "73.0 MB"
             },
             compatible_versions: [
                 "none"
