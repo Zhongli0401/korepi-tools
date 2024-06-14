@@ -3,7 +3,7 @@ net file 1>NUL 2>NUL || start "" mshta vbscript:CreateObject("Shell.Application"
 chcp 65001
 SetLocal EnableDelayedExpansion
 set batpath=%~dp0
-cd /d %batpath%/tools
+cd /d %batpath%
 rem mkdir miku
 rem 
 rem copy /Y %SystemRoot%\System32\drivers\etc\hosts .\miku\miku_edit 
@@ -20,17 +20,17 @@ rem taken from stackexchange n korepi-tools520
 rem start "" "node\node.exe" "server.js"
 rem mkdir "C:/miku"
 rem copy /Y "certs\md5c.korepi.com.pub" "C:\miku\md5c.korepi.com.pub"
-cd ..
+rem cd ..
 cd korepi
 start "" "injector.exe"
 timeout /t 5 /nobreak > nul
 goto korepicrash
 
 :RESTORENET
-cd ..
-cd tools
-copy /y ".\miku\miku_bak" %SystemRoot%\System32\drivers\etc\hosts
-rmdir /S /Q "miku"
+rem cd ..
+rem cd tools
+rem copy /y ".\miku\miku_bak" %SystemRoot%\System32\drivers\etc\hosts
+rem rmdir /S /Q "miku"
 rem miku delete SADGE (T-T)
 rem taskkill /f /im node.exe
 taskkill /f /im injector.exe
